@@ -1,10 +1,10 @@
 {
   "domain": "carburanti_italia_gps",
   "name": "Carburanti Italia GPS",
-  "version": "1.0.0",
-  "documentation": "https://github.com/PakyITA/carburanti-italia-gps",
-  "requirements": [],
   "codeowners": ["@PakyITA"],
+  "dependencies": [],
+  "documentation": "https://github.com/PakyITA/carburanti_italia_gps",
   "iot_class": "cloud_polling",
-  "config_flow": true
+  "issue_tracker": "https://github.com/PakyITA/carburanti_italia_gps/issues",
+  "version": "1.0.0"
 }
